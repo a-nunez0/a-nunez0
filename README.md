@@ -13,7 +13,7 @@ JavaScript • Node.js • Express • React Native • Expo • MongoDB • Fir
 ## 🚀 Featured Projects
 
 ### 🤝 HandUP
-A volunteer coordination platform with web and React Native mobile applications powered by Firebase.
+A volunteer coordination platform with web and React Native mobile applications powered by Firebase. Try it out [https://handup-58832.web.app]
 
 ### 🚗 Car Collection API
 A REST API for managing vehicles and maintenance records using MongoDB, GitHub OAuth, and Swagger.
