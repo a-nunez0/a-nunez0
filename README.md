@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Alvaro 👋
 
-<!--
-**a-nunez0/a-nunez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at **BYU–Idaho**  
+💻 Interested in full-stack, mobile, and backend development  
+🚀 Currently building **HandUP**, a volunteer coordination platform  
+📍 West Palm Beach, Florida  
+🐛 I build apps & break them until they work 😂
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript • Node.js • Express • React Native • Expo • MongoDB • Firebase • Git • GitHub
+
+## 🚀 Featured Projects
+
+### 🤝 HandUP
+A volunteer coordination platform with web and React Native mobile applications powered by Firebase.
+
+### 🚗 Car Collection API
+A REST API for managing vehicles and maintenance records using MongoDB, GitHub OAuth, and Swagger.
+
+## 📫 Let's Connect
+
+I'm currently looking for opportunities to grow as a software engineer and gain professional development experience.
